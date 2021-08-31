@@ -4,4 +4,4 @@
 
 Me llamo ezequiel franco mancuso y estudio en unahur
 
-![foto] ("eze.jpg")
+![foto]("eze.jpg")
